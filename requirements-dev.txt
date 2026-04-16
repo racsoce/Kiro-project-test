@@ -1,0 +1,4 @@
+pytest
+hypothesis
+moto
+pytest-mock
